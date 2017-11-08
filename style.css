@@ -13,6 +13,9 @@ background-size: cover;
   border: solid 4px #757575;
 }
 
+#programmeur {
+  font-style: italic;
+}
 
 #background_opacity {
   z-index: -10;
@@ -24,6 +27,7 @@ h1, h2, h3, h4 {
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 28px;
   line-height: 30px;
+  color : #4E6766;
 }
 
 li {
