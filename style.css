@@ -32,7 +32,7 @@ li {
 
 
 .container {
-  width: 500px;   /* This sets the width */
+  width: 800px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
   text-align:center;
 }
@@ -132,7 +132,8 @@ li {
 }
 
 #clickable {
-  padding: 50px;
+  width: 100%;
+  border-radius: 10%;
 }
 
 #clickable td:hover {
